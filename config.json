@@ -31,6 +31,11 @@
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "detail": "https://www.maoyanzy.com"
     },
+    "api.guangsuapi.com": {
+      "name": "🎬光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "detail": "https://api.guangsuapi.com"
+    },
     "cj.lzcaiji.com": {
       "name": "🎬量子资源",
       "api": "https://cj.lzcaiji.com/api.php/provide/vod",
@@ -50,6 +55,11 @@
       "name": "🎬非凡资源",
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
       "detail": "https://cj.ffzyapi.com"
+    },
+    "jszyapi.com": {
+      "name": "🎬极速资源",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "detail": "https://jszyapi.com"
     },
     "xinlangapi.com": {
       "name": "🎬新浪资源",
@@ -101,11 +111,6 @@
       "api": "https://collect.wolongzyw.com/api.php/provide/vod",
       "detail": "https://collect.wolongzyw.com"
     },
-    "jszyapi.com": {
-      "name": "🎬极速资源",
-      "api": "https://jszyapi.com/api.php/provide/vod",
-      "detail": "https://jszyapi.com"
-    },
     "wwzy.tv": {
       "name": "🎬旺旺短剧",
       "api": "https://wwzy.tv/api.php/provide/vod",
@@ -120,11 +125,6 @@
       "name": "🎬飘零资源",
       "api": "https://p2100.net/api.php/provide/vod",
       "detail": "https://p2100.net"
-    },
-    "api.guangsuapi.com": {
-      "name": "🎬光速资源",
-      "api": "https://api.guangsuapi.com/api.php/provide/vod",
-      "detail": "https://api.guangsuapi.com"
     },
     "www.moduzy.net": {
       "name": "🎬魔都资源",
